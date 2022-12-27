@@ -1,0 +1,12 @@
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\bin\Debug\VbNetQuiz.exe.config
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\bin\Debug\VbNetQuiz.exe
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\bin\Debug\VbNetQuiz.pdb
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\bin\Debug\VbNetQuiz.xml
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.vbproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.Resources.resources
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.vbproj.GenerateResource.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.vbproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.exe
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.xml
+C:\Users\Code.id\Documents\Harpi\Bootcamp\Day8\VbNetQuiz\obj\Debug\VbNetQuiz.pdb
