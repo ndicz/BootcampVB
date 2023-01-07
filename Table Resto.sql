@@ -1,5 +1,6 @@
+CREATE DATABASE resto;
 
-CREATE SCHEMA [resto] AUTHORIZATION [dbo]
+CREATE SCHEMA [resto]
 
 GO
 
@@ -40,12 +41,16 @@ CREATE TABLE resto.order_menus
     orme_total_amount MONEY,
     orme_pay_type NCHAR(2) NOT NULL,
     orme_cardnumber NVARCHAR(25),
-    orme_is_paid nchar(2),
+    orme_is_paid CHAR(1) CHECK(orme_is_paid IN('P', 'B')),
     orme_modified_date DATETIME,
     orme_user_id INTEGER,
     CONSTRAINT pk_orme_id PRIMARY KEY (orme_id),
-    CONSTRAINT fk_orme_user_id FOREIGN KEY (orme_user_id) REFERENCES resto.users(user_id) ON DELETE CASCADE ON UPDATE CASCADE
-
+    CONSTRAINT fk_orme_user_id FOREIGN KEY (orme_user_id) REFERENCES resto.users(user_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT chk_orme_cardnumber CHECK(
+        (orme_pay_type = 'CR' OR orme_pay_type = 'D') AND orme_cardnumber IS NOT NULL
+        OR
+        orme_pay_type NOT IN('CR', 'D') AND orme_cardnumber IS NULL
+    )
 );
 
 CREATE TABLE resto.order_menu_detail
@@ -76,4 +81,4 @@ CREATE TABLE resto.resto_menu_photos
 );
 
 
-
+DROP resto
