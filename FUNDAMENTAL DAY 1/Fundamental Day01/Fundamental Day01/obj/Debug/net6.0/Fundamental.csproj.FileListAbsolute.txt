@@ -1,0 +1,30 @@
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.csproj.AssemblyReference.cache
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.AssemblyInfoInputs.cache
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.AssemblyInfo.cs
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.csproj.CoreCompileInputs.cache
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.exe
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.deps.json
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.runtimeconfig.json
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.pdb
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\refint\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.pdb
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.genruntimeconfig.cache
+C:\Users\CODE.ID\Documents\HENDRI\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\ref\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.exe
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.deps.json
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.runtimeconfig.json
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\bin\Debug\net6.0\Fundamental.pdb
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.csproj.AssemblyReference.cache
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.AssemblyInfoInputs.cache
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.AssemblyInfo.cs
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.csproj.CoreCompileInputs.cache
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\refint\Fundamental.dll
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.pdb
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\Fundamental.genruntimeconfig.cache
+C:\Users\CODE.ID\Documents\HENDRI\FUNDAMENTAL DAY 1\Fundamental Day01\Fundamental Day01\obj\Debug\net6.0\ref\Fundamental.dll
